@@ -24,3 +24,6 @@ print(triagem(69, "confirmar"))  # eliminar
 
 **A conclusão é simples:** inserir uma pessoa no fluxo não basta. É preciso verificar se ela consegue exercer julgamento próprio. Esse é o ponto em que compreender o produto se torna parte do trabalho jurídico preventivo.
 
+## Teste reproduzível
+
+Execute `python exemplo.py`. As saídas `eliminar` e `pendente` ilustram a diferença entre confirmar e não confirmar; não demonstram, por si, que uma revisão humana efetiva exista em um produto real.
